@@ -30,7 +30,7 @@
     width: 100%;
     height: 100%;
     text-align: center;
-    transition: ease-out 0.15s;
+    transition: ease-out 0.1s;
   }
 
   div.focus {
@@ -61,7 +61,7 @@
     border-radius: 0px;
     font-size: 2em;
     color: #fff;
-    transition: ease-out 0.15s;
+    transition: ease-out 0.1s;
   }
 
   button.focus {
